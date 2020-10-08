@@ -1,5 +1,5 @@
 ![covegi logo](https://raw.githubusercontent.com/covegi/covegi.github.io/master/covegi.png  "covegi logo" )
-# covegi
+# CoVEGI
 Information, source code and experimental results of covegi
 
 [covegi Framework](covegiFramework)
