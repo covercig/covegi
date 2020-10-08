@@ -1,4 +1,4 @@
-![covegi logo](https://raw.githubusercontent.com/covegi/covegi.github.io/master/covegi.png  "covegi logo" )
+![covegi logo](https://raw.githubusercontent.com/covercig/covegi/master/covegi.png  "covegi logo" )
 # CoVEGI
 Information, source code and experimental results of covegi
 
