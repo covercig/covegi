@@ -2,9 +2,9 @@
 # CoVEGI
 Information, source code and experimental results of covegi
 
-[covegi Framework](covegiFramework)
+[covegi Framework](CoVEGI Framework)
 
-## Experimental results for covegi
+## Experimental results for CoVEGI
 The results associated with the four research-questions can be obtained here:
 
 ####RQ1 & RQ2:
